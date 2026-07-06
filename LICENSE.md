@@ -1,4 +1,4 @@
-# 
+# Ligero Ollama plantillas. Con análisis de documentos y grafos de conocimiento — optimizado para el máximo rendimiento y eficiencia.
 
 
 
